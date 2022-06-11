@@ -1,0 +1,10 @@
+{
+  "title": "Rumbo es un protocolo descentralizado de viajes compartidos",
+  "p1": "El protocolo conecta conductores y pasajeros sin tomar altas comisiones de cada viaje. Las necesidades de cada región son satisfechas por medio de una red de flotas independientes. Estas flotas son cooperativas digitales propiedad de los mismos conductores. Los conductores ganan participación en la toma de decisiones de sus respectivas flotas con cada viaje que hacen. De esa manera las flotas pueden tomar sus propias decisiones con respecto a precios, comisiones y calidad de servicio.",
+  "p2": "Los incentivos que estamos construyendo e integrando en el protocolo permitirán tener una mejor alternativa tanto para conductores como pasajeros que buscan disfrutar de los viajes compartidos. Estaremos lanzando el protocolo ciudades de Latinoamerica este año. ¡Únete a nuestra lista de conductores! ",
+  "buttons": {
+    "drive": "Conduce",
+    "contribute": "Contribuye",
+    "email": "Habla con nosotros"
+  }
+}

@@ -1,0 +1,18 @@
+{
+"title": "Sign up to join the driver waitlist",
+"subtitle": "We'll reach out when we're ready to onboard you :)",
+"name": "Full name",
+"email": "Email",
+"phone": "Phone number",
+"location": "Location",
+"message": "Anything you'd like us to know?",
+"messagePlaceholder": "Hi my name is Diego, I would love for you to build...",
+"submit": "Sign up",
+
+"heroTitle": "Sign up to earn more from your rides",
+"perks": "Perks of driving with Rumbo",
+"perk1": "Low ride fees (0-10%) determined by you and your fleet",
+"perk2": "Instant payment upon ride completion, no need to \"cash out\"",
+"perk3": "Control your prices",
+"perk4": "Drive to earn ownership over your fleet"
+}

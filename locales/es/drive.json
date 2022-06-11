@@ -1,0 +1,17 @@
+{
+  "title": "Únete a la lista de conductores",
+  "subtitle": "Te contactaremos en cuanto hayamos revisado tu registro :)",
+  "name": "Nombre completo",
+  "email": "Correo electrónico",
+  "phone": "Teléfono",
+  "location": "Ubicación / Zona",
+  "message": "¿Quieres decir mas? (experiencia, recomendaciones, etc)",
+  "messagePlaceholder": "Hola, mi nombre es Diego. Me encantaría que la app tuviera...",
+  "submit": "Unirse",
+  "heroTitle": "Únete para ganar más de tus viajes",
+  "perks": "Ventajas de manejar con Rumbo",
+  "perk1": "Comisiones bajas (0-10%) decididas por ti y tu flota",
+  "perk2": "Pago inmediato al completar cada viaje, no hay necesidad de \"retirar tus ganancias\"",
+  "perk3": "Decide tus tarifas",
+  "perk4": "Entre más viajes completados tiene el conductor, tendrá mayor participación en la empresa y garantizará el exito a largo plazo."
+}
